@@ -1,0 +1,8 @@
+{
+  "name": "Jetlift Standard Elevators - Professional Elevator Services Lagos",
+  "description": "Jetlift Standard Elevators Company provides professional elevator installation, repairs, maintenance, upgrades, and lift supply solutions in Lagos, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
